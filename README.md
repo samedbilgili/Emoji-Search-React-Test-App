@@ -10,9 +10,11 @@ Install
 
 `npm install`
 
-
-
 Usage
 ---
 
-`npm start`
+for test = `yarn test`
+for run app = `npm start`
+
+
+
